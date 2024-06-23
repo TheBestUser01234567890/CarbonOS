@@ -1,0 +1,3 @@
+The operating system, by itself, is licensed under the GPLv3 <www.gnu.org/licenses/gpl-3.0.en.html>.
+The BOM, kernel, and miscellanous I/O (except getInput64.dll, which I don't currently know the origin of and thus cannot license it yet) are licensed under MPLv2 <www.mozilla.org/en-US/MPL/2.0/>.
+The boot parts are licensed under Apachev2 <www.apache.org/licenses/LICENSE-2.0>.

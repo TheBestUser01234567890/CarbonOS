@@ -5,3 +5,4 @@ Development is currently completely open. Make a pull request if you want to mod
 
 Current version: Alpha 0.1.0
 
+More info will be revealed after Milestone 5.
